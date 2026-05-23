@@ -1,4 +1,4 @@
-# Olá, me chamo Matheus Firmino! 👋
+# Olá, me chamo Matheus de Almeida Firmino! 👋
 
 Sou estudante de **Sistemas para Internet**, no início de uma jornada dedicada ao desenvolvimento web e tecnologia.
 
