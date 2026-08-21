@@ -14,7 +14,7 @@ Meu foco no momento é ampliar meus conhecimentos técnicos, construindo uma bas
 
 ## 📬 Onde me encontrar
 
-[![LinkedIn](https://www.linkedin.com/in/matheus-de-almeida-firmino-53a755350/)
+[![LinkedIn]}(https://www.linkedin.com/in/matheus-de-almeida-firmino-53a755350/)
 
 <!--
 **tznX/tznX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
